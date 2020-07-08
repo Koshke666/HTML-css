@@ -1,11 +1,25 @@
 body {
     background: url(img/iyayza.jpg);
     background-size: 100%;
-    background-color: #f8f8f8
+    background-color: #000000
 }
 
 .menu li {
+    color: aqua;
     font-family: fantasy;
     font-size: 12;
-    color: crimson
+}
+
+.menu {
+    list-style-type: none
+}
+
+h1,
+h3,
+p,
+li {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea
 }

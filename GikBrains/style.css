@@ -1,0 +1,11 @@
+body {
+    background: url(img/iyayza.jpg);
+    background-size: 100%;
+    background-color: #f8f8f8
+}
+
+.menu li {
+    font-family: fantasy;
+    font-size: 12;
+    color: crimson
+}

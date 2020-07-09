@@ -1,7 +1,6 @@
 body {
-    background: url(img/iyayza.jpg);
     background-size: 100%;
-    background-color: #000000
+    background-color: #f8f8f8
 }
 
 .menu li {
@@ -16,8 +15,7 @@ body {
 
 h1,
 h3,
-p,
-li {
+    {
     color: black;
     font-size: 18px;
     font-weight: 400;

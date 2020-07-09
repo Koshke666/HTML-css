@@ -3,10 +3,13 @@ body {
     background-color: #f8f8f8
 }
 
-.menu li {
-    color: aqua;
-    font-family: fantasy;
-    font-size: 12;
+.menu li a {
+    color: darkorange;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+
 }
 
 .menu {
@@ -14,16 +17,25 @@ body {
 }
 
 #podrobno,
-#kratko {
+#kratko,
+#haracter {
     color: black;
     font-size: 18px;
     font-weight: 400;
     background-color: #eaeaea
 }
 
-h2 {
+#krop {
     color: #707070;
     font-size: 14px;
     font-style: italic;
     line-height: 16px
+}
+
+#podrob {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
 }
